@@ -30,5 +30,6 @@
 	<classpathentry kind="lib" path="C:/Users/user/Downloads/hibernatejar/hibernatejar/proxool-0.8.3.jar"/>
 	<classpathentry kind="lib" path="C:/Users/user/Downloads/hibernatejar/hibernatejar/slf4j-api-1.6.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/user/Downloads/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Downloads/mysql-connector.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

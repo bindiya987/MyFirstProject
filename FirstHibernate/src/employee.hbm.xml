@@ -9,8 +9,8 @@
      <generator class="assigned"></generator>  
     </id>  
             
-    <property name="firstName"></property>  
-    <property name="lastName"></property>  
+    <property name="type"></property>  
+    <property name="name"></property>  
             
   </class>  
             
